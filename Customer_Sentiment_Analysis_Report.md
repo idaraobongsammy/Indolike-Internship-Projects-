@@ -27,7 +27,7 @@ for cleaning, analysis, and visualization.
 -   **Python 3**
 -   **pandas** -- for data manipulation\
 -   **zipfile** -- to extract zipped datasets\
--   **matplotlib** -- for visualization\
+-   **Excel** -- for visualization\
 -   **TextBlob** -- for sentiment polarity analysis (future step)
 
 ------------------------------------------------------------------------
