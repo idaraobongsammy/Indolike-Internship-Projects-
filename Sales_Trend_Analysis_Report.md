@@ -100,4 +100,3 @@ Sales-Trend-Analysis/
 
 ---
 
-*This report was auto-formatted for GitHub and updated with real insights and visuals extracted from the analysis notebook.*
