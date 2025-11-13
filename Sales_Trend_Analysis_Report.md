@@ -65,8 +65,8 @@ Using monthly aggregated sales, seasonal decomposition indicated a recurring pat
 
 ### **3. Anomaly Detection**
 Simple residual-based Z-score analysis detected two significant anomalies:  
-- **Month 11 (November)** — unusually high sales (₦352,461.07)  
-- **Month 12 (December)** — another sharp rise (₦325,293.50)  
+- **Month 11 (November)** — unusually high sales (352,461.07)  
+- **Month 12 (December)** — another sharp rise (325,293.50)  
 
 ![Anomalies](images/anomalies.png)
 
