@@ -23,7 +23,7 @@ These projects demonstrate my ability to clean, analyze, visualize, and interpre
 - Majority of customer feedback was **positive**, showing general satisfaction.  
 - Negative reviews were tied to product delays and quality inconsistencies.  
 
-📄 **Full report:** [`Customer_Sentiment_Analysis_Report_UPDATED.md`](Customer_Sentiment_Analysis_Report_UPDATED.md)
+📄 **Full report:** [`Customer_Sentiment_Analysis_Report_UPDATED.md`](Customer_Sentiment_Analysis_Report.md)
 
 🖼️ **Visualization placeholder:** `images/sentiment_percentage_donut.jpeg`
 
@@ -45,7 +45,7 @@ These projects demonstrate my ability to clean, analyze, visualize, and interpre
 - Clear **seasonal spikes** in November and December (holiday sales).  
 - Detected anomalies aligned with expected holiday peaks — not data errors.
 
-📄 **Full report:** [`Sales_Trend_Analysis_Report_UPDATED.md`](Sales_Trend_Analysis_Report_UPDATED.md)
+📄 **Full report:** [`Sales_Trend_Analysis_Report_UPDATED.md`](Sales_Trend_Analysis_Report.md)
 
 🖼️ **Visualization placeholders:**  
 - `images/trend_line.png`  
@@ -75,26 +75,10 @@ These projects demonstrate my ability to clean, analyze, visualize, and interpre
 
 ---
 
-## 🗂️ Repository Structure
-```
-Internship-Portfolio/
-│
-├── Customer_Sentiment_Analysis_Report_UPDATED.md
-├── Sales_Trend_Analysis_Report_UPDATED.md
-├── images/
-│   ├── sentiment_percentage_donut.jpeg
-│   ├── trend_line.png
-│   ├── seasonal_decompose.png
-│   └── anomalies.png
-└── README.md
-```
-
----
-
 ## ✍🏽 Author
 **Idaraobong Sammy**  
 Data Analyst (Intern) | Passionate about data-driven storytelling and business insights  
 
 ---
 
-*This portfolio demonstrates practical, hands-on data analytics and visualization skills gained through real internship projects.*
+
