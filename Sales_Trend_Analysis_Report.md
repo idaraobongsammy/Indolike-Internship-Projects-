@@ -23,7 +23,7 @@ No missing values were found in the key fields (Order Date and Sales).
 - `numpy` — numerical operations  
 - `matplotlib` / `seaborn` — visualization  
 - `statsmodels` — seasonal decomposition (`seasonal_decompose`)  
-- `scipy` — (optional) for statistical tests / anomaly detection  
+- `scipy` — for statistical tests / anomaly detection  
 
 ---
 
@@ -86,7 +86,6 @@ Simple residual-based Z-score analysis detected two significant anomalies:
 Sales-Trend-Analysis/
 │
 ├── Sales_Trend_Analysis_Report.md
-├── Sales trend analysis.ipynb
 └── images/
     ├── trend_line.png
     ├── seasonal_decompose.png
@@ -95,8 +94,4 @@ Sales-Trend-Analysis/
 
 ---
 
-## ✍🏽 Author
-**Idaraobong Sammy** — Sales Trend Analysis Internship Project  
-
----
 
