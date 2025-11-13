@@ -104,7 +104,4 @@ high satisfaction levels.
 
 ------------------------------------------------------------------------
 
-## ✍🏽 Author
 
-**Idaraobong Sammy**\
-Internship Project \| Sentiment Analysis \| Data Analytics Enthusiast
